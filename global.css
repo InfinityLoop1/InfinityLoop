@@ -31,6 +31,7 @@ h1,h2,h3,p,li,a,ol,ul{
   width: 25px;
   height: 25px;
   text-align: center;
+  transition: 0.25s;
 }
 .divAaA:hover{
   background: #941313;
@@ -41,6 +42,7 @@ h1,h2,h3,p,li,a,ol,ul{
   width: 25px;
   height: 25px;
   text-align: center;
+  transition: 0.25s;
 }
 .divAaB:hover{
   background: #948301;
@@ -51,6 +53,7 @@ h1,h2,h3,p,li,a,ol,ul{
   width: 25px;
   height: 25px;
   text-align: center;
+  transition: 0.25s;
 }
 .divAaC:hover{
   background: #1b8700;
