@@ -33,3 +33,24 @@ h1,h2,h3,p,li,a,ol,ul{
 .divAaA:hover{
   background: #941313;
 }
+.divAaB{
+  border-radius: 50%;
+  background: #ffe100;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+}
+.divAaB:hover{
+  background: #948301;
+}
+.divAaC{
+  border-radius: 50%;
+  background: #34fa02;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+}
+.divAaC:hover{
+  background: #1b8700;
+}
+
