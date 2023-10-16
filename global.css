@@ -55,4 +55,9 @@ h1,h2,h3,p,li,a,ol,ul{
 .divAaC:hover{
   background: #1b8700;
 }
+.divAaD{
+  width: 425px;
+  height: 25px;
+  background-color: #303030;
+}
 
