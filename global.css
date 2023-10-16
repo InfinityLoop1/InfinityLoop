@@ -60,8 +60,6 @@ h1,h2,h3,p,li,a,ol,ul{
   height: 25px;
   background-color: #303030;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
   text-align: center;
   display: flex;
   justify-content: center;
