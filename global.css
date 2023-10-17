@@ -17,6 +17,10 @@ a,p {
 }
 a{
   text-underline-offset: 4px;
+  transition: 0.5s;
+}
+a:hover{
+  text-underline-offset: 2px;
 }
 .icon{
   width: 15px;
