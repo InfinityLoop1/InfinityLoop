@@ -10,6 +10,7 @@ h1,h2,h3,p,li,a,ol,ul{
 }
 a,p {
   font-size: 15px;
+  line-height: 1.5;
 }
 a{
   text-decoration: none;
