@@ -8,6 +8,9 @@ h1,h2,h3,p,li,a,ol,ul{
   font: "Fira Sans", sans-serif;
   padding: 5px;
 }
+h1,h2,h3,p,lo,a,ol,ul,div,img{
+  z-index: 1;
+}
 a,p {
   font-size: 15px;
   line-height: 1.5;
