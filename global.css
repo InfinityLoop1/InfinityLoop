@@ -2,12 +2,12 @@ body {
   font-family: sans-serif;  
   background-color: #101010;
 }
-h1,h2,h3,p,li,a,ol,ul{
+/* h1,h2,h3,p,li,a,ol,ul{
   color: White;
   text-align: center;
   font: "Fira Sans", sans-serif;
   padding: 5px;
-}
+} */
 h1,h2,h3,p,lo,a,ol,ul,div,img{
   z-index: 1;
 }
@@ -98,6 +98,6 @@ video {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  z-index: 0;
+  z-index: -1;
 }
 
