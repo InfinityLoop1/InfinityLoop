@@ -21,15 +21,15 @@ h1,h2,h3,p,li,a,ol,ul{
 }
 .divAa{
   background-color: #303030;
-  text-align: center;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
 }
 .divAaA{
   border-radius: 50%;
   background: #ff2424;
-  width: 25px;
-  height: 25px;
+  width: 10px;
+  height: 10px;
   text-align: center;
   transition: 0.25s;
 }
@@ -39,8 +39,8 @@ h1,h2,h3,p,li,a,ol,ul{
 .divAaB{
   border-radius: 50%;
   background: #ffe100;
-  width: 25px;
-  height: 25px;
+  width: 10px;
+  height: 10px;
   text-align: center;
   transition: 0.25s;
 }
@@ -50,8 +50,8 @@ h1,h2,h3,p,li,a,ol,ul{
 .divAaC{
   border-radius: 50%;
   background: #34fa02;
-  width: 25px;
-  height: 25px;
+  width: 10px;
+  height: 10px;
   text-align: center;
   transition: 0.25s;
 }
