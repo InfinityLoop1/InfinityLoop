@@ -68,4 +68,9 @@ h1,h2,h3,p,li,a,ol,ul{
   justify-content: center;
   align-items: center;
 }
+.divAaE{
+  width: 5px;
+  height: 25px;
+  background-color: #303030;
+}
 
