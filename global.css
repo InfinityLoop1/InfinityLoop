@@ -8,6 +8,9 @@ h1,h2,h3,p,li,a,ol,ul{
   font: "Fira Sans", sans-serif;
   padding: 5px;
 }
+a,p {
+  font-size: 15px;
+}
 .icon{
   width: 15px;
   height: 15px;
