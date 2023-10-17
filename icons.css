@@ -1,6 +1,6 @@
 .Gbackrooms3d::before {
   content: url('https://i.ibb.co/HNjGKDH/iconsbackrooms3d.png');
-  display: inline-block;
+  /*display: inline-block;*/
   width: 15px;
   height: 15px;
   margin-right: 5px;
