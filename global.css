@@ -23,8 +23,8 @@ a:hover{
   text-underline-offset: 2px;
 }
 .icon{
-  width: 15px;
   height: 15px;
+  width: auto;
 }
 .divA{
   border-radius: 5px;
