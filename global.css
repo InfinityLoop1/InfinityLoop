@@ -13,7 +13,7 @@ a,p {
   line-height: 1.5;
 }
 a{
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 .icon{
   width: 15px;
