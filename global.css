@@ -16,9 +16,6 @@ h1,h2,h3,p,li,a,ol,ul{
   transition: 0.5s;
   width: 500px;
 }
-.divA:hover {
-  background-color: #101010;
-}
 .divAa{
   background-color: #303030;
   display: flex;
