@@ -8,6 +8,10 @@ h1,h2,h3,p,li,a,ol,ul{
   font: "Fira Sans", sans-serif;
   padding: 5px;
 }
+.icon{
+  width: 15px;
+  height: 15px;
+}
 .divA{
   border-radius: 5px;
   border: 2px solid #FFFFFF;
