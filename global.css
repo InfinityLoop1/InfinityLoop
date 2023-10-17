@@ -8,19 +8,25 @@ h1,h2,h3,p,li,a,ol,ul{
   font: "Fira Sans", sans-serif;
   padding: 5px;
 }
-/* h1,h2,h3,p,lo,a,ol,ul,div,img{
-  z-index: 1;
-} */
 a,p {
   font-size: 15px;
   line-height: 1.5;
 }
 a{
-  text-underline-offset: 4px;
+  text-underline-offset: 3px;
   transition: 0.5s;
 }
 a:hover{
   text-underline-offset: 2px;
+}
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
 }
 .icon{
   height: 15px;
@@ -94,14 +100,5 @@ a:hover{
   width: 5px;
   height: 25px;
   background-color: #303030;
-}
-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: -1;
 }
 
