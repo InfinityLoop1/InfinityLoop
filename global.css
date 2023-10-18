@@ -109,6 +109,7 @@ video {
   height: 100px;
   width: auto;
   text-decoration: none;
+  transition: 0.5s ease-in-out;
 }
 .socialImg:hover{
   transform: perspective(400px) rotateX(-25deg);
