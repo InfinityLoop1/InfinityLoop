@@ -37,6 +37,8 @@ video {
   gap: 10px;
   justify-items: center;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .divA{
   border-radius: 5px;
