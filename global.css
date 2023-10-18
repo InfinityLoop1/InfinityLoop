@@ -9,7 +9,7 @@ h1,h2,h3,p,li,a,ol,ul{
   padding: 5px;
 }
 a,p {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.5;
 }
 a{
@@ -29,7 +29,7 @@ video {
   z-index: -1;
 }
 .icon{
-  height: 20px;
+  height: 15px;
   width: auto;
 }
 .wrapper{
