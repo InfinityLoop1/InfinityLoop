@@ -36,6 +36,7 @@ video {
   display: flex;
   gap: 10px;
   justify-items: center;
+  text-align: center;
 }
 .divA{
   border-radius: 5px;
