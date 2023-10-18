@@ -101,4 +101,9 @@ video {
   height: 25px;
   background-color: #303030;
 }
+.socialImg{
+  height: 100px;
+  width: auto;
+  text-decoration: none;
+}
 
