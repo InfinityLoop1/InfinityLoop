@@ -41,6 +41,7 @@ video {
   width: 500px;
   padding-bottom: 10px;
   box-shadow: 0px 0px 10px black;
+  display: inline;
 }
 .divA:hover{
   transform: translateY(10px);
