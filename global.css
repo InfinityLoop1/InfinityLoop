@@ -32,6 +32,9 @@ video {
   height: 20px;
   width: auto;
 }
+.wrapper{
+  display: flex;
+}
 .divA{
   border-radius: 5px;
   border: 2px solid #FFFFFF;
@@ -41,7 +44,6 @@ video {
   width: 500px;
   padding-bottom: 10px;
   box-shadow: 0px 0px 10px black;
-  display: flex;
 }
 .divA:hover{
   transform: translateY(10px);
