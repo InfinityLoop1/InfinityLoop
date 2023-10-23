@@ -17,7 +17,7 @@ a{
   transition: 0.5s;
 }
 a:hover{
-  text-underline-offset: 2px;
+  text-underline-offset: 1px;
 }
 video {
   position: absolute;
