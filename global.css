@@ -51,7 +51,7 @@ video {
 }
 .divA:hover{
   transform: translateY(5px);
-  box-shadow: 0px 0px 10px black;
+  box-shadow: 0px 0px 20px black;
 }
 .divAa{
   background-color: #303030;
