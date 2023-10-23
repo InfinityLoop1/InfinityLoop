@@ -37,8 +37,8 @@ video {
   gap: 10px;
   justify-items: center;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  /*margin-left: auto;
+  margin-right: auto;*/
   flex-wrap: wrap;
 }
 .divA{
