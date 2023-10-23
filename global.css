@@ -50,7 +50,7 @@ video {
   box-shadow: 0px 0px 10px black;
 }
 .divA:hover{
-  transform: translateY(10px);
+  transform: translateY(5px);
   box-shadow: 0px 0px 10px black;
 }
 .divAa{
