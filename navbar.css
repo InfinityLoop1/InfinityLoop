@@ -1,0 +1,39 @@
+body   {  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: #202020;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 0px;  
+height: 50px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 50px 0 black;  
+z-index:1;
+}  
+header * {  
+display: inline;  
+}  
+header li { 
+  color: #757575;
+  margin: 20px;  
+}  
+header li a {  
+color: #149CEA;  
+text-decoration: none;  
+  text-shadow: 0 0 5px #149CEA;
+  transition-duration: 0.5s;
+}  
+header li a:hover {  
+  color: #67b7e6;  
+  text-shadow: 0 0 5px #149CEA,
+              0 0 10px #149CEA,
+              0 0 20px #149CEA;
+  transform: translateY(-3px);
+} 
