@@ -14,7 +14,7 @@ a,p {
 }
 a{
   text-underline-offset: 3px;
-  transition: 0.5s;
+  transition: 0.25s;
 }
 a:hover{
   text-underline-offset: 1px;
