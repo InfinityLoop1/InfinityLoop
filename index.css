@@ -39,6 +39,7 @@ video {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  flex-wrap: wrap;
 }
 .divA{
   border-radius: 5px;
