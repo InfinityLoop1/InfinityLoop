@@ -44,6 +44,7 @@ video {
   margin-left: auto;
   margin-right: auto;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .divA{
   border-radius: 5px;
