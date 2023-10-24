@@ -16,13 +16,14 @@ display: flex;
 align-items: center;  
 box-shadow: 0 0 50px 0 black;  
 z-index:1;
+padding-left: 10px;
 }  
 header * {  
 display: inline;  
 }  
 header li { 
   color: #757575;
-  margin: 10px;  
+  margin: 5px;  
 }  
 header li a {  
 color: #149CEA;  
