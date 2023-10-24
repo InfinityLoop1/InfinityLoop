@@ -22,7 +22,7 @@ display: inline;
 }  
 header li { 
   color: #757575;
-  margin: 20px;  
+  margin: 10px;  
 }  
 header li a {  
 color: #149CEA;  
@@ -35,5 +35,4 @@ header li a:hover {
   text-shadow: 0 0 5px #149CEA,
               0 0 10px #149CEA,
               0 0 20px #149CEA;
-  transform: translateY(-3px);
 } 
