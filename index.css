@@ -18,7 +18,7 @@ a,p {
 }
 a{
   text-underline-offset: 3px;
-  transition: 0.25s;
+  transition: 0.25s ease-in-out;
 }
 a:hover{
   text-underline-offset: 1px;
@@ -73,7 +73,7 @@ video {
   width: 10px;
   height: 10px;
   text-align: center;
-  transition: 0.25s;
+  transition: 0.25s ease-in-out;
 }
 .divAaA:hover{
   background: #941313;
@@ -84,7 +84,7 @@ video {
   width: 10px;
   height: 10px;
   text-align: center;
-  transition: 0.25s;
+  transition: 0.25s ease-in-out;
 }
 .divAaB:hover{
   background: #948301;
@@ -95,7 +95,7 @@ video {
   width: 10px;
   height: 10px;
   text-align: center;
-  transition: 0.25s;
+  transition: 0.25s ease-in-out;
 }
 .divAaC:hover{
   background: #1b8700;
