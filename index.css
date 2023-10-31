@@ -115,8 +115,8 @@ a:hover{
   height: 80px;
   width: auto;
   text-decoration: none;
-  transition: 0.5s ease-in-out;
+  transition: 0.25s ease-in-out;
 }
 .socialImg:hover{
-  transform: perspective(400px) rotateX(-25deg);
+  transform: perspective(400px) rotateX(-10deg);
 }
