@@ -67,35 +67,31 @@ a:hover{
   text-align: center;
 }
 
-.divAaA{
+.divAaA, .divAaB, .divAaC{
   border-radius: 50%;
-  background: #ff2424;
   width: 10px;
   height: 10px;
   text-align: center;
   transition: 0.25s ease-in-out;
+}
+.divAaA:active, .divAaB:active, .divAaC:active{
+  width: 9px;
+  height: 9px;
+}
+.divAaA{
+  background: #ff2424;
 }
 .divAaA:hover{
   background: #941313;
 }
 .divAaB{
-  border-radius: 50%;
   background: #ffe100;
-  width: 10px;
-  height: 10px;
-  text-align: center;
-  transition: 0.25s ease-in-out;
 }
 .divAaB:hover{
   background: #948301;
 }
 .divAaC{
-  border-radius: 50%;
   background: #34fa02;
-  width: 10px;
-  height: 10px;
-  text-align: center;
-  transition: 0.25s ease-in-out;
 }
 .divAaC:hover{
   background: #1b8700;
