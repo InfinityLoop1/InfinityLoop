@@ -1,5 +1,5 @@
 # InfinityLoop
-InfinityLoop is a site where you can play original games by me.
+InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 My old sites were InfinityLoopGames and InfinityLoopHome, but I combined them into one site.
 
 # Site Link
@@ -15,4 +15,4 @@ Please do not take the html files of games to put on your own sites or for perso
 
 # Website Code
 This website was made in HTML and CSS. 
-The code amount counter in GitHub says it is only made of HTML, this is because it is messed up because my games are very large HTML files.  No, I did not code them in HTML, that would be ridiculous because of how much code there is. The file is too large that even GitHub can't display it, it has to be downloaded raw. They are actually made in other game making platforms and then packaged into HTML.
+The code amount counter in GitHub says it is only made of HTML, this is because it is messed up because my games are very large HTML files. The files are too large that even GitHub can't display it, it has to be downloaded raw. They are actually made in other game making platforms and then packaged into HTML.
