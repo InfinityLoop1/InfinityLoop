@@ -57,6 +57,8 @@ a:hover{
 }
 .divA:hover{
   transform: translateY(5px);
+  transform: scaleX(90%);
+  transform: scaleY(90%);
   box-shadow: 0px 0px 20px black;
 }
 .divAa{
