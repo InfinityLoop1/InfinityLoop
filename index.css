@@ -18,10 +18,10 @@ a,p {
 }
 a{
   text-underline-offset: 3px;
-  transition: 0.25s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 a:hover{
-  text-underline-offset: 0px;
+  text-underline-offset: 1px;
 }
 video {
   position: absolute;
