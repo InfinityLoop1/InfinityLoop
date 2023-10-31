@@ -75,8 +75,8 @@ a:hover{
   transition: 0.25s ease-in-out;
 }
 .divAaA:active, .divAaB:active, .divAaC:active{
-  width: 9px;
-  height: 9px;
+  width: 15px;
+  height: 15px;
 }
 .divAaA{
   background: #ff2424;
