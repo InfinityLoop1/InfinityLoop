@@ -120,3 +120,7 @@ a:hover{
 .socialImg:hover{
   transform: perspective(400px) rotateX(-20deg);
 }
+.appicon{
+  height: 20px;
+  width: auto;
+}
