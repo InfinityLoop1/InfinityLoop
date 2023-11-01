@@ -120,3 +120,7 @@ a:hover{
 .socialImg:hover{
   transform: perspective(400px) rotateX(-20deg);
 }
+.icon{
+  height: 14px;
+  width: auto;
+}
