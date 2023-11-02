@@ -1,1 +1,2 @@
 ErrorDocument 404 /404.html
+header set x-frame-options ALLOW-FROM https://infinityloop1.netlify.app
