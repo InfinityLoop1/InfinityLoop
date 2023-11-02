@@ -11,7 +11,7 @@ All the games and experiments on this site I have created myself. Some are also 
 There will be a link to play it in this site and on my itch.io, depending on which sites they're on.
 
 # Games & Experiments Code Rules
-Please do not take the html files of games to put on your own sites or for personal use. You can Iframe one of my games from my site into your site AS LONG AS YOU GIVE CREDIT TO ME.
+Please do not take the html files of games to put on your own sites or for personal use, they are my property, I made them.
 
 # Website Code
 This website was made in HTML and CSS. 
