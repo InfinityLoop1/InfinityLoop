@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b24c27b8-e81b-4422-9038-07975b058e4d/deploy-status)](https://app.netlify.com/sites/infinityloop1/deploys)
 # InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 My old sites were InfinityLoopGames and InfinityLoopHome, but I combined them into one site.
