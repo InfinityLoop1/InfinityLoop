@@ -12,5 +12,10 @@ All code for my games is put onto a private repository. This is so people cannot
 
 # Contributing
 Please make sure all contributions (pull requests and commits) follow the <a href="docs/CODE_OF_CONDUCT.md"> Code of Conduct</a>.
+
+# Sponsoring
+Right now, the only way to sponsor me if you wish is by supporting one of my games on itch.io.
+The link is <a href="https://infinityloopgames.itch.io">this</a>.
+
 # License
-This part of the website is open-source, so code rules for this repository follows the MIT License.
+This repository follows the MIT License.
