@@ -10,7 +10,7 @@ The link for InfinityLoop is https://infinityloop1.netlify.app
 
 InfinityLoop is built with Netlify
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b24c27b8-e81b-4422-9038-07975b058e4d/deploy-status)](https://app.netlify.com/sites/infinityloop1/deploys)
 
 # Games & Experiments
 All the games and experiments on this site I have created myself. Some are also hosted on my <a href=https://infinityloopgames.itch.io>itch.io</a>.
