@@ -15,7 +15,7 @@ Please make sure all contributions (pull requests and commits) follow the <a hre
 
 # Sponsoring
 Right now, the only way to sponsor me if you wish is by supporting one of my games on itch.io.
-The link is <a href="https://infinityloopgames.itch.io">this</a>.
+<a href="https://infinityloopgames.itch.io">Here is the link.</a>.
 
 # License
 This repository follows the <a href="LICENSE">MIT License.</a>
