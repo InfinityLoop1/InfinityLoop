@@ -1,4 +1,5 @@
-<img align="center" src="Infinitytransparent.png">
+<img align="center" height="200px" width="auto" src="Infinitytransparent.png">
+
 # ∞ InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 
