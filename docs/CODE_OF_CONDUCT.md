@@ -1,6 +1,6 @@
 # COLLABORATOR RULES
 
-If you were invited to be a collaborator on this project, **I have given you a lot of trust**. This is the rules I expect you to follow if you are a collaborator.
+If you were invited to be a collaborator on this project, I have given you a lot of trust. This is the rules I expect you to follow if you are a collaborator.
 
 - Rule 1: You are not allowed to edit code in any such way that it is harmful to the site.
 - Rule 2: You are not allowed to edit code in any such way that it changes the site in an unwanted way.
