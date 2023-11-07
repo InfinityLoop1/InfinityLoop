@@ -4,7 +4,7 @@ InfinityLoop is a homepage for me where you can play original games, experiments
 The link for InfinityLoop is https://infinityloop1.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b24c27b8-e81b-4422-9038-07975b058e4d/deploy-status)](https://app.netlify.com/sites/infinityloop1/deploys)
-https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop)
 
 
 # Games & Experiments
