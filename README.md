@@ -2,6 +2,7 @@
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop)
+![GitHub repo size](https://img.shields.io/github/repo-size/InfinityLoopGames/InfinityLoop)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/InfinityLoopGames/InfinityLoop)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
 
