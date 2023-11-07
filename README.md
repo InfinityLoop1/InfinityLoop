@@ -1,4 +1,4 @@
-# InfinityLoop
+# ∞ InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 
 The link for InfinityLoop is https://infinityloop1.netlify.app
@@ -15,7 +15,7 @@ Please make sure all contributions (pull requests and commits) follow the <a hre
 
 # Sponsoring
 Right now, the only way to sponsor me if you wish is by supporting one of my games on itch.io.
-<a href="https://infinityloopgames.itch.io">Here is the link.</a>.
+<a href="https://infinityloopgames.itch.io">Here is the link.</a>
 
 # License
 This repository follows the <a href="LICENSE">MIT License.</a>
