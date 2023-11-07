@@ -1,13 +1,16 @@
 # ∞ InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
 
-The link for InfinityLoop is https://infinityloop1.netlify.app
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b24c27b8-e81b-4422-9038-07975b058e4d/deploy-status)](https://app.netlify.com/sites/infinityloop1/deploys)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/InfinityLoopGames/InfinityLoop)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
 
+# Site Link
+The link for InfinityLoop is https://infinityloop1.netlify.app
 
+InfinityLoop is built with Netlify
+
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
 
 # Games & Experiments
 All the games and experiments on this site I have created myself. Some are also hosted on my <a href=https://infinityloopgames.itch.io>itch.io</a>.
