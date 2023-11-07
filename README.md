@@ -18,4 +18,4 @@ Right now, the only way to sponsor me if you wish is by supporting one of my gam
 The link is <a href="https://infinityloopgames.itch.io">this</a>.
 
 # License
-This repository follows the <a href="docs/LICENSE">MIT License.</a>
+This repository follows the <a href="LICENSE">MIT License.</a>
