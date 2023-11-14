@@ -1,4 +1,4 @@
-<a href="https://infinityloop1.netlify.app"><img align="right" height="200px" width="auto" src="Infinitytransparent.png"></a>
+<a href="https://infinityloop1.netlify.app"><img align="right" height="200px" width="auto" src="/images/infinity/transp.png"></a>
 
 # ∞ InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more made by me.
