@@ -1,5 +1,9 @@
+@fontface {
+  font-family: customfont;
+  src=url (Orbitron-Regular.ttf)
+}
 body {
-  font-family: sans-serif;  
+  font-family: customfont; 
   background-color: #101010;
 }
 h1,h2,h3,p,li,a,ol,ul{
