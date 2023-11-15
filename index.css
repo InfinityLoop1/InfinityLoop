@@ -1,6 +1,6 @@
 @fontface {
   font-family: customfont;
-  src=url (Orbitron-Regular.ttf)
+  src=url (Orbitron-Regular.ttf);
 }
 body {
   font-family: customfont; 
