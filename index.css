@@ -1,9 +1,9 @@
 @fontface {
-  font-family: customfont;
-  src=url (Orbitron-Regular.ttf);
+  font-family: 'orbit';
+  src: url (Orbitron-Regular.ttf);
 }
 body {
-  font-family: customfont; 
+  font-family: orbit, sans-serif; 
   background-color: #101010;
 }
 h1,h2,h3,p,li,a,ol,ul{
@@ -11,7 +11,7 @@ h1,h2,h3,p,li,a,ol,ul{
   text-align: center;
   /*font: "Fira Sans", sans-serif;*/
   padding: 5px;
-  font-family: customfont;
+  font-family: orbit;
 }
 a,p {
   font-size: 14px;
