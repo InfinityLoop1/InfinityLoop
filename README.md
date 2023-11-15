@@ -9,10 +9,9 @@ InfinityLoop is a homepage for me where you can play original games, experiments
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
 
 # Site Link
-The link for InfinityLoop is https://infinityloop1.netlify.app
+The link for InfinityLoop is <a href="https://infinityloop1.netlify.app">https://infinityloop1.netlify.app</a>
 
-InfinityLoop is built with Netlify
-
+InfinityLoop is built with
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b24c27b8-e81b-4422-9038-07975b058e4d/deploy-status)](https://app.netlify.com/sites/infinityloop1/deploys)
 
 # Games & Experiments
@@ -30,4 +29,4 @@ Right now, the only way to sponsor me if you wish is by supporting one of my gam
 Under one of my games, click the "Support this game" button to support.
 
 # License
-This repository follows the <a href="LICENSE">MIT License.</a>
+This repository follows the <a href="LICENSE.md">MIT License.</a>
