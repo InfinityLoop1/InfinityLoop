@@ -1,15 +1,11 @@
-@fontface {
-  font-family: "orbit";
-  src: url (Orbitron-Regular.ttf) format("truetype");
-}
 body {
-  font-family: "orbit", sans-serif; 
+  font-family: sans-serif; 
   background-color: #101010;
 }
 h1,h2,h3,p,li,a,ol,ul{
   color: White;
   text-align: center;
-  /*font: "Fira Sans", sans-serif;*/
+  font: "Fira Sans", sans-serif;
   padding: 5px;
   font-family: "orbit", sans-serif;
 }
