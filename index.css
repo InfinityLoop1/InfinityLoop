@@ -1,6 +1,6 @@
 @fontface {
-  font-family: "orbit" format("truetype");
-  src: url (Orbitron-Regular.ttf);
+  font-family: "orbit";
+  src: url (Orbitron-Regular.ttf) format("truetype");
 }
 body {
   font-family: "orbit"; 
