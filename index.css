@@ -1,5 +1,5 @@
 @fontface {
-  font-family: 'orbit';
+  font-family: 'orbit' format('truetype');
   src: url (Orbitron-Regular.ttf);
 }
 body {
