@@ -6,9 +6,9 @@ body {
 h1,h2,h3,p,li,a,ol,ul{
   color: White;
   text-align: center;
-  font: "Fira Sans", sans-serif;
+  /*font: "Fira Sans", sans-serif;*/
   padding: 5px;
-  font-family: "orbit", sans-serif;
+
 }
 a,p {
   font-size: 14px;
