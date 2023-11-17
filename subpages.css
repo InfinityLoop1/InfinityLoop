@@ -83,8 +83,11 @@ a{
   0% {
     transform: perspective(400px) rotateX(20deg);
   }
-  100% {
+  50% {
     transform: perspective(400px) rotateX(-20deg);
+  }
+  100% {
+    transform: perspective(400px) rotateX(20deg);
   }
 }
 .infinityimg{
