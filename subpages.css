@@ -97,8 +97,12 @@ a{
   display: block;
   margin: 0 auto;
   animation: infrot 5s linear infinite;
+  transition: 1s;
 }
-
+.infinityimg:hover{
+  transform: scaleX(1.5);
+  transform: scaleY(1.5);
+}
 
 .sidiv{
   text-align: center;
