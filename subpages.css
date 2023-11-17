@@ -79,17 +79,24 @@ a{
   height: 25px;
   width: auto;
 }
+@keyframes infrot {
+  0% {
+    transform: perspective(400px) rotateX(20deg);
+  }
+  100% {
+    transform: perspective(400px) rotateX(-20deg);
+  }
+}
 .infinityimg{
   height: 150px;
   width: auto;
   text-align: center;
   display: block;
   margin: 0 auto;
-  transition: 2s;
+  animation: infrot 0.5s linear infinite;
 }
-.infinityimg:hover{
-  transform: perspective(400px) rotateX(45deg);
-}
+
+
 .sidiv{
   text-align: center;
 }
@@ -104,18 +111,6 @@ a{
 }
 .pagetitle{
     text-shadow: 0 0 2.5px #FFFFFF;
-}
-.art{
-  height: 300px;
-  width: auto;
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-  transition: 0.5s;
-  padding: 10px;
-}
-.art:hover{
-  transform: perspective(400px) rotateY(2.5deg);
 }
 .newsdiv{
   margin: auto;
