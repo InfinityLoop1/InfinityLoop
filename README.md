@@ -1,6 +1,6 @@
 <a href="https://infinityloop1.netlify.app"><img align="right" height="200px" width="auto" src="/images/infinity/transp.png"></a>
 
-# ∞ InfinityLoop
+# InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more.
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop)
