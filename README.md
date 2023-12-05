@@ -8,6 +8,7 @@ InfinityLoop is a homepage for me where you can play original games, experiments
 ![GitHub repo size](https://img.shields.io/github/repo-size/InfinityLoopGames/InfinityLoop)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/InfinityLoopGames/InfinityLoop)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoopGames/InfinityLoop)
+![Alt](https://repobeats.axiom.co/api/embed/5d52f321adea9d942573c87dc3e1e4bb589de7a4.svg "Repobeats analytics image")
 
 # Site Link
 The link for InfinityLoop is <a href="https://infinityloop1.netlify.app">https://infinityloop1.netlify.app</a>.
