@@ -3,6 +3,7 @@
 # InfinityLoop
 InfinityLoop is a homepage for me where you can play original games, experiments, and more.
 
+# Stats
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/InfinityLoopGames/InfinityLoop)
 ![GitHub repo size](https://img.shields.io/github/repo-size/InfinityLoopGames/InfinityLoop)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/InfinityLoopGames/InfinityLoop)
@@ -30,6 +31,3 @@ Under one of my games, click the "Support this game" button to support.
 
 # License
 This repository follows the <a href="LICENSE.md">MIT License</a>.
-
-# Stats
-![Alt](https://repobeats.axiom.co/api/embed/5d52f321adea9d942573c87dc3e1e4bb589de7a4.svg "Repobeats analytics image")
