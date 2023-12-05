@@ -30,3 +30,6 @@ Under one of my games, click the "Support this game" button to support.
 
 # License
 This repository follows the <a href="LICENSE.md">MIT License</a>.
+
+# Stats
+![Alt](https://repobeats.axiom.co/api/embed/5d52f321adea9d942573c87dc3e1e4bb589de7a4.svg "Repobeats analytics image")
