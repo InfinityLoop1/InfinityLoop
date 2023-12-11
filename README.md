@@ -13,6 +13,7 @@ InfinityLoop is a homepage for me where you can play original games, experiments
 
 # Site Link
 The link for InfinityLoop is <a href="https://infinityloop1.netlify.app">https://infinityloop1.netlify.app</a>.
+
 An alternate link is <a href="infinityloop1.github.io/InfinityLoop">infinityloop1.github.io/InfinityLoop</a>, but some things might not work correctly, especially the 404 page, because index is a subpage.
 
 InfinityLoop is built with
