@@ -1,2 +1,3 @@
-ErrorDocument 404 /404.html
-header set x-frame-options DENY
+ErrorDocument 404 /404/index.html
+header set x-frame-options SAME-ORIGIN
+X-Frame-Options: SAMEORIGIN
