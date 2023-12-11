@@ -6,6 +6,7 @@ body{
   font-family: sans-serif;  
   background-color: black;
 }
+/* Scrollbar */
 /* Firefox */
 * {
   scrollbar-width: thin;
@@ -43,6 +44,7 @@ body{
 *::-webkit-scrollbar-thumb:active {
   background-color: #00A3A1;
 }
+/* end scrollbar */
 h1,h2,h3,p,li,a,ol,ul{
   color: White;
   text-align: center;
@@ -61,60 +63,11 @@ p a{
 a{
   text-decoration: none;
 }
-.gameDiv{
-  border-radius: 25px;
-  border: 2px solid #FFFFFF;
-  background-color: #202020;
-  text-align: center;
-  transition: 0.5s;
-  text-shadow: 0 0 0px #000000;
-  width: 500px;
-  padding-bottom:10px;
-}
-.gameDiv:hover {
-  background-color: #101010;
-  text-shadow: 0 0 1.5px #FFFFFF;
-}
 .wrapper {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
   justify-items: center;
-}
-.gLB {
-  width: 10em;
-  position: relative;
-  height: 3.5em;
-  border: 3px ridge #149CEA;
-  outline: none;
-  background-color: transparent;
-  color: white;
-  transition: 0.5s;
-  border-radius: 0.3em;
-  font-size: 16px;
-  cursor: pointer;
-  text-shadow: 0 0 0px #000000;
-}
-
-.gLB:hover {
-  box-shadow: inset 0px 0px 25px #1479EA;
-  text-shadow: 0 0 2px #FFFFFF;
-  transform: perspective(400px) rotateX(-25deg);
-}
-.gImg {
-  height: 75px;
-  width: 100px;
-  transition: 0.5s;
-  border-radius: 5px;
-  object-fit: cover;
-}
-.gImg:hover{
-  transform: perspective(400px) rotateX(45deg);
-  border-radius: 15px;
-}
-.gIcon{
-  height: 25px;
-  width: auto;
 }
 @keyframes infrot {
   0% {
