@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-
 body{
   height: 125vh;  
   margin-top: 80px;  
   padding: 30px;  
   background-size: cover;  
-  font-family: 'Orbitron', sans-serif;  
+  font-family: sans-serif;  
   background-color: black;
 }
 h1,h2,h3,p,li,a,ol,ul{
