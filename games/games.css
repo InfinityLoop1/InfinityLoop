@@ -138,3 +138,6 @@ a{
   animation: infrot 5s linear infinite;
   transition: 1s;
 }
+.pagetitle{
+    text-shadow: 0 0 2.5px #FFFFFF;
+}
