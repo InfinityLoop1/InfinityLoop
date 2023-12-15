@@ -9,7 +9,8 @@ body {
 }
 h1,h2,h3,p,li,a,ol,ul{
   padding: 5px;
-
+  color: White;
+  text-align: center;
 }
 a,p {
   font-size: 14px;
