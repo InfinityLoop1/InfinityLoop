@@ -9,6 +9,7 @@ InfinityLoop is a homepage for me where you can play original games, experiments
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/InfinityLoop1/InfinityLoop)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/InfinityLoop1/InfinityLoop)
 ![Alt](https://repobeats.axiom.co/api/embed/5d52f321adea9d942573c87dc3e1e4bb589de7a4.svg "Repobeats analytics image")
+[![Contrib](https://contrib.rocks/image?repo=InfinityLoop1/InfinityLoop)](https://github.com/InfinityLoop1/InfinityLoop/graphs/contributors)
 
 On Github, it says that this site is 100% HTML. This is only because my games are giant HTML files, packaged from other languages.
 
