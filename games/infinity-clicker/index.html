@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Clicker</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+    <back-cover></back-cover>
+    <div class="clickcontainer" id="container">
+      <div id="score">0</div>
+      <br>
+      <div id="button"></div>
+    </div>
+    <div class="upgcontainer" id="container">
+      
+      <div class="radio-inputs">
+        <label class="radio">
+          <input type="radio" name="buymult" checked="" id="x1radio">
+          <span class="name">x1</span>
+        </label>
+        <label class="radio">
+          <input type="radio" name="buymult" id="x10radio">
+          <span class="name">x10</span>
+        </label>   
+        <label class="radio">
+          <input type="radio" name="buymult" id="x100radio">
+          <span class="name">x100</span>
+        </label>
+      </div>
+      
+      <div id="upgcpc" class="upg">Upgrade CPC</div>
+      <div id="upgcps" class="upg">Upgrade CPS</div>
+    </div>
+    <section hidden class="stats-modal" id="modal">
+      <h2>Stats</h2>
+      <p id="cpcstat">CPC: 1</p>
+      <p id="cpsstat">CPS: 0</p>
+      <p id="clicksstat">Clicks: 0</p>
+      <p id="secondsstat">Seconds played: 0</p>
+      <p id="presshopstat">Prestige - Price reduced: 0</p>
+      <p id="presboosstat">Prestige - Score booster: 0</p>
+    </section>
+    <section hidden class="prestige-modal" id="modal">
+      <h2>Prestige</h2>
+      <p>Prestige will reset all of your progress in this life, but will rebirth you with prestige boosts.</p>
+      <br>
+      <div class="prestigebutton" id="prestigebuttonshop">Decrease shop costs</div>
+      <p id="presoutpshop">Loading...</p>
+      <br>
+      <div class="prestigebutton" id="prestigebuttonboost">Increase prestige percentage</div>
+      <p id="presoutpboos">Loading...</p>
+    </section>
+    <div hidden class="modal-overlay"></div>
+    <div id="container" class="modalbtncontainer">
+      <div class="stats-btn-open" id="btn-open">Open Stats</div>
+      <div class="prestige-btn-open" id="btn-open">Open Prestige</div>
+    </div>
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>

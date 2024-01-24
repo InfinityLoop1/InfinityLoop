@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
+
+html {
+  overflow: hidden;
+}
+body {
+  font-family: 'Orbitron', sans-serif;
+  background-color: #202020;
+  color: #FFFFFF;
+  display: flex;
+  gap: 15px;
+}
+
+back-cover {
+  background-color: #202020;
+  color: #FFFFFF;
+  position: absolute;
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  height: 50px;
+  background-color: #303030;
+  color: white;
+  border-radius: 10px;
+  border-style: none;
+}
+#button {
+  --buttoncolor1: #149CEA;
+  --buttoncolor2: #2a75a1;
+  --buttoncolor3: #2e5a7390;
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  background: var(--buttoncolor1);
+  border: 2px solid var(--buttoncolor2);
+  border-radius: 50%;
+  box-shadow: 0 4px 0 var(--buttoncolor2);
+  transition: all .1s ease;
+  filter: drop-shadow(0 15px 20px var(--buttoncolor3));
+  margin: auto;
+}
+
+#button:active {
+  transform: translateY(8px);
+  box-shadow: 0 0 0 var(--buttoncolor3);
+}
+#score {
+  font-size: 30px;
+}
+#container {
+  height: 100%;
+  text-align: center;
+  background-color: #303030;
+  padding: 10px;
+}
+.clickcontainer {
+  width: 300px;
+  border-bottom-right-radius: 20px;
+  transform: translate(-10px, -10px);
+}
+.upg, .prestigebutton, #btn-open {
+  font-family: 'Orbitron', sans-serif;
+  background-color: #505050;
+  width: 250px;
+  border-radius: 2px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 10px;
+}
+.upg:active, .prestigebutton:active, #btn-open:active {
+  background-color: #606060;
+}
+.upgcontainer, .modalbtncontainer {
+  width: 300px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  transform: translate(0px, -10px);
+} 
+body, h1, h2, h3, h4, h5, h6, a, p, div, li, button {
+  /* make it so people cannot select text */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/*MODALS*/
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(3px);
+  z-index: 50;
+}
+
+#modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.4rem;
+  width: 450px;
+  padding: 1.3rem;
+  min-height: 250px;
+  position: absolute;
+  background-color: #303030;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  z-index: -100;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+#btn-close {
+  width: 50px;
+  height: 50px;
+  transform: translate(10px, -20px);
+  padding: 0.5rem 0.7rem;
+  background: #202020;
+  border-radius: 50%;
+}
+
+
+.radio-inputs {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 0.5rem;
+  background-color: #404040;
+  box-sizing: border-box;
+  box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
+  padding: 0.25rem;
+  width: 300px;
+  font-size: 14px;
+}
+
+.radio-inputs .radio {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.radio-inputs .radio input {
+  display: none;
+}
+
+.radio-inputs .radio .name {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  border: none;
+  padding: .5rem 0;
+  color: white;
+  transition: all .15s ease-in-out;
+}
+
+.radio-inputs .radio input:checked + .name {
+  background-color: #202020;
+  font-weight: 600;
+}
