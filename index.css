@@ -67,6 +67,7 @@ a:hover{
   transition: 0.5s;
   padding-bottom: 10px;
   box-shadow: 0px 0px 10px black;
+  z-index: 100;
 }
 .divA:hover{
   transform: translateY(5px);
